@@ -6,9 +6,9 @@ Data Science Tools: AI4PH Lecture
 
 ## List of Resources For Learning Data Science
 ### Python
-[IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science?)
-[Classic Machine Learning Course](https://www.coursera.org/learn/machine-learning)
-[Practical Deep Learning Course](https://course.fast.ai/)
-[Data Ethics Course](https://ethics.fast.ai/)
+* [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science?)
+* [Classic Machine Learning Course](https://www.coursera.org/learn/machine-learning)
+* [Practical Deep Learning Course](https://course.fast.ai/)
+* [Data Ethics Course](https://ethics.fast.ai/)
 
 
