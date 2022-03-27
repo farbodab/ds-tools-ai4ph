@@ -1,3 +1,6 @@
 build:
   docker:
+    release:
+       dockerfile: ./deploy/Dockerfile
+       target: builder
     web: ./deploy/Dockerfile
