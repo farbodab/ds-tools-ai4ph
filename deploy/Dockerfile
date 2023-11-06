@@ -1,18 +1,9 @@
 FROM python:3.8.3
 
-ENV CONFIG_DIR=/var/code
+WORKDIR /usr/src/app
 
-WORKDIR ${CONFIG_DIR}
+COPY . .
 
-USER root
+RUN pip install -r requirements.txt
 
-COPY . ${CONFIG_DIR}
-
-RUN pip install --upgrade pip && \
-    pip install -r ${CONFIG_DIR}/requirements.txt
-
-USER 1001
-
-CMD ["deploy.py"]
-
-ENTRYPOINT ["python3"]
+CMD ["uvicorn", "deploy:app", "--host", "0.0.0.0", "--port", "80"]
