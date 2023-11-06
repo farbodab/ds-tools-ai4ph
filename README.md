@@ -1,7 +1,7 @@
 # ds-tools-ai4ph
-Data Science Tools: AI4PH Lecture
+The Tools for Data Science: Notebooks and Versioning
 
-[Presentation Slides](https://docs.google.com/presentation/d/1nVuLd79JPxDpQ4wKsGPNIZJcw6Ocm-gAjJaxtNWAcpk/edit#slide=id.p)
+[Presentation Slides](https://docs.google.com/presentation/d/1_yGq02oKCgF3oP41a_aQtSqHXNEA1D9KAB7wV7DfoWo/edit#slide=id.ge50cf25aac_0_53)
 
 
 ## List of Resources For Learning Data Science
